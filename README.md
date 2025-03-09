@@ -1,18 +1,18 @@
 # Core Components `This is also my todo....`
 
-[x] Plan it
+- [x] Plan it
 
-[]  **Metadata Server**
+- [ ]  **Metadata Server**
   - Track nodes who have a certain file
   - Stores `Hashes, timestamps and Peer info`
   - Helps with peer discovery
 
-[] **Client Node**
+- [ ] **Client Node**
   - Watch over files
   - Send updates to other peers
   - Receive and Update file
 
-[]  File Transfer Layer
+- [ ] **File Transfer Layer**
 - Delta Transfer (rsync-style) - only send changes file part
 - Compression
 - Secure Communication
